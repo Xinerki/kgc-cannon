@@ -1,0 +1,11 @@
+<meta>
+    <info type="script" description="tank/swat cannon redone" authorserial="8F8FC5C3A66C18F01C9D96B54A8C9A84" author="Xinerki" version="1.0" name=""></info>
+    <script type="client" src="client.lua"></script>
+    <script type="server" src="server.lua"></script>
+	
+	<file src="arc.png"/>
+	
+	<file src="Cannon-1.wav"/>
+	<file src="Cannon-2.wav"/>
+	<file src="Cannon-3.wav"/>
+</meta>
